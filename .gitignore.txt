@@ -1,0 +1,29 @@
+# Unity-spezifische Ignorierregeln
+
+[Libraries]
+[Libraries]/
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+# Rider / VS / JetBrains
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Sonstige OS-Dateien
+.DS_Store
+Thumbs.db

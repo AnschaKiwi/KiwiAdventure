@@ -1,0 +1,22 @@
+Tages-Log – 25. Mai 2025 (Teil 2)
+Wichtige Meilensteine und Notizen:
+
+Blender-Kiwi jetzt mit vollständigem Material und richtig coolem Comic-Federkleid (Körper-Federn und Flaum am Kopf in Arbeit).
+
+Federn alle als Einzelobjekte modelliert, an den Körper geparented und in Collection einsortiert – Top-Hierarchie für Game-Projekte!
+
+Import nach Unity getestet:
+
+Hinweis: Vor dem Export aus Blender unbedingt für alle Einzelteile Object > Apply > All Transforms ausführen,
+um Verformungen in Unity zu verhindern (besonders bei Füßen/Zehen/Federn).
+
+Boden-Plane in Unity erstellt, Kiwi erfolgreich in Szene platziert.
+
+Unity nimmt Änderungen am Modell nach erneutem Speichern und Exportieren automatisch an.
+
+Flaum/Kopffedern können später weiter modelliert und nachbearbeitet werden, jederzeit exportierbar.
+
+Profi-Tipp fürs nächste Mal:
+
+Nach jeder Modifikation in Blender (vor dem Export) Apply All Transforms für alle relevanten Teile nutzen!
+
